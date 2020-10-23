@@ -7,16 +7,23 @@
 - 💬 Ask me about ***Web Development***
 - ⚡ Fun fact: ***I love to Develop App, Website and UX/UI Design***
 
-### Portfolio
+### Portfolio:
 
-[<img align="left" alt="Vasanth" width="22px" src="https://vasanth1009.github.io/Personal-Portfolio/Image/favicon.png" />][website]
+[<img align="left" alt="Vasanth | Portfolio" width="22px" src="https://vasanth1009.github.io/Personal-Portfolio/Image/favicon.png" />][website]
 <br />
 
 ### Connect with me:
 
 [<img align="left" alt="Vasanth | Twitter" width="22px" src="https://abs.twimg.com/favicons/twitter.ico" />][twitter]
 [<img align="left" alt="Vasanth | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />][linkedin]
-[<img align="left" alt="Vasanth | Gmail" width="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />][Gmail]
+[<img align="left" alt="Vasanth | Gmail" width="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />][gmail]
+<br />
+
+### Programming Known:
+
+<img align="left" alt="Java" width="22px" src="https://img.icons8.com/color/48/000000/java.png" />
+<img align="left" alt="C" width="22px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />
 <br />
 
 ### Languages and Tools:
@@ -32,6 +39,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="PostMan" width="23px" src="https://www.postman.com/favicon-32x32.png?v=13d51aa1bbfaacb557bf41b85783e441" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -41,4 +49,4 @@
 [website]: https://vasanth1009.github.io/Personal-Portfolio/
 [twitter]: https://twitter.com/Vasanth10091999
 [linkedin]: https://www.linkedin.com/in/vasanthprabhakaran/
-[Gmail]: mailto:vasanthprabhakaran1999@gmail.com
+[gmail]: mailto:vasanthprabhakaran1999@gmail.com
