@@ -24,6 +24,7 @@
 <img align="left" alt="Java" width="22px" src="https://img.icons8.com/color/48/000000/java.png" />
 <img align="left" alt="C" width="22px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="C-Sharp" width="22px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
 <br />
 
 ### Languages and Tools:
