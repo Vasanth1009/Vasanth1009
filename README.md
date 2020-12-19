@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ***React And Angular And Vue Developer***
 - 🤔 I’m looking for help with ***Full Stack Developer***
 - 💬 Ask me about ***Web Development***
-- ⚡ Fun fact: ***I love to Develop App, Website and UX/UI Design***
+- ⚡ Fun fact: ***I love to Develop Web App, Website and UX/UI Design***
 
 ### Portfolio:
 
