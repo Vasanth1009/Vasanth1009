@@ -35,7 +35,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon.ico" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://reactjs.org/favicon.ico" />
 <img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/favicons/favicon.ico" />
 <img align="left" alt="Vue" width="26px" src="https://vuejs.org/images/icons/android-icon-192x192.png" />
 <img align="left" alt="Azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
