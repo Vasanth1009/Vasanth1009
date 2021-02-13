@@ -32,7 +32,7 @@
 <img align="left" alt="VS Code" width="26px" src="https://code.visualstudio.com/favicon.ico" />
 <img align="left" alt="PostMan" width="23px" src="https://www.postman.com/favicon-32x32.png?v=13d51aa1bbfaacb557bf41b85783e441" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/fluidicon.png" />
-<img align="left" alt="GitHub" width="26px" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/parcel/present/build-favicon-default.5ced79d9.ico" />
+<img align="left" alt="BigBucket" width="26px" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/parcel/present/build-favicon-default.5ced79d9.ico" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
