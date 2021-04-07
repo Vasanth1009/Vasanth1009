@@ -7,7 +7,6 @@
 - ⏳ Hobbies : ***I love to Develop Web App, Website and UX/UI Design***
 <hr/>
 
-
 ### Portfolio:
 
 [<img align="left" alt="Vasanth | Portfolio" width="22px" src="https://vasanth1009.github.io/Personal-Portfolio/Image/favicon.png" />][website]
@@ -49,6 +48,15 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/favicon.ico" />
 <br />
+<br />
+<br />
+<br />
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vasanth1009&theme=dark)  
+<br />
+<br />
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanth1009&layout=compact&theme=dark)](https://github.com/Vasanth1009/github-readme-stats)
 
 [website]: https://vasanth1009.github.io/Personal-Portfolio/
 [twitter]: https://twitter.com/Vasanth10091999
