@@ -49,8 +49,7 @@
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/favicon.ico" />
 <br />
 <br />
-<br />
-<br />
+<hr/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vasanth1009&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br />
