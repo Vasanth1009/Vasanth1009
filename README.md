@@ -48,6 +48,7 @@
 <img align="left" alt="Expressjs" width="26px" src="https://expressjs.com/images/favicon.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://account.mongodb.com/static/images/favicon.ico" />
 <img align="left" alt="Azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
+<br/>
 <hr/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vasanth1009&theme=dark&hide_border=true)](https://git.io/streak-stats)
