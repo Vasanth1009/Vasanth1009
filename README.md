@@ -29,24 +29,24 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="VS Code" width="26px" src="https://code.visualstudio.com/favicon.ico" />
-<img align="left" alt="PostMan" width="26px" src="https://www.postman.com/favicon-32x32.png?v=13d51aa1bbfaacb557bf41b85783e441" />
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/favicon.ico" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/fluidicon.png" />
-<img align="left" alt="BigBucket" width="26px" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/parcel/present/build-favicon-default.5ced79d9.ico" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon.ico" />
-<img align="left" alt="Tailwind" width="26px" src="https://tailwindcss.com/favicon-32x32.png" />
-<img align="left" alt="React" width="26px" src="https://reactjs.org/favicon.ico" />
-<img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/favicons/favicon.ico" />
-<img align="left" alt="Vue" width="26px" src="https://vuejs.org/images/icons/android-icon-192x192.png" />
-<img align="left" alt="Next.js" width="26px" src="https://nextjs.org/static/favicon/favicon.ico" />
-<img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />
-<img align="left" alt="Expressjs" width="26px" src="https://expressjs.com/images/favicon.png" />
-<img align="left" alt="Azure" width="26px" src="https://portal.azure.com/favicon.ico" />
+<img align="left" alt="VS Code" width="22px" src="https://code.visualstudio.com/favicon.ico" />
+<img align="left" alt="PostMan" width="22px" src="https://www.postman.com/favicon-32x32.png?v=13d51aa1bbfaacb557bf41b85783e441" />
+<img align="left" alt="Git" width="22px" src="https://git-scm.com/favicon.ico" />
+<img align="left" alt="GitHub" width="22px" src="https://github.com/fluidicon.png" />
+<img align="left" alt="BigBucket" width="22px" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/parcel/present/build-favicon-default.5ced79d9.ico" />
+<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Bootstrap" width="22px" src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon.ico" />
+<img align="left" alt="Tailwind" width="22px" src="https://tailwindcss.com/favicon-32x32.png" />
+<img align="left" alt="React" width="22px" src="https://reactjs.org/favicon.ico" />
+<img align="left" alt="Angular" width="22px" src="https://angular.io/assets/images/favicons/favicon.ico" />
+<img align="left" alt="Vue" width="22px" src="https://vuejs.org/images/icons/android-icon-192x192.png" />
+<img align="left" alt="Next.js" width="22px" src="https://nextjs.org/static/favicon/favicon.ico" />
+<img align="left" alt="Node.js" width="22px" src="https://nodejs.org/static/images/favicons/favicon.ico" />
+<img align="left" alt="Expressjs" width="22px" src="https://expressjs.com/images/favicon.png" />
+<img align="left" alt="Azure" width="22px" src="https://portal.azure.com/favicon.ico" />
 <br/>
 <br/>
 <hr/>
