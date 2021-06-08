@@ -46,7 +46,6 @@
 <img align="left" alt="Next.js" width="26px" src="https://nextjs.org/static/favicon/favicon.ico" />
 <img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />
 <img align="left" alt="Expressjs" width="26px" src="https://expressjs.com/images/favicon.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://account.mongodb.com/static/images/favicon.ico" />
 <img align="left" alt="Azure" width="26px" src="https://portal.azure.com/favicon.ico" />
 <br/>
 <br/>
