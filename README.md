@@ -42,7 +42,7 @@
 <img align="left" alt="Tailwind" width="22px" src="https://tailwindcss.com/favicons/favicon-16x16.png" />
 <img align="left" alt="React" width="22px" src="https://reactjs.org/favicon.ico" />
 <img align="left" alt="Angular" width="22px" src="https://angular.io/assets/images/favicons/favicon.ico" />
-<img align="left" alt="Vue" width="22px" src="https://vuejs.org/images/icons/android-icon-192x192.png" />
+<img align="left" alt="Vue" width="22px" src="https://vuejs.org/logo.svg" />
 <img align="left" alt="Next.js" width="22px" src="https://nextjs.org/static/favicon/favicon.ico" />
 <img align="left" alt="Node.js" width="22px" src="https://nodejs.org/static/images/favicons/favicon.ico" />
 <img align="left" alt="Expressjs" width="22px" src="https://expressjs.com/images/favicon.png" />
