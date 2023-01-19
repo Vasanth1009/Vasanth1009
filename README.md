@@ -54,8 +54,6 @@
 <br />
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanth1009&langs_count=8&theme=dark&hide_border=true)](https://github.com/Vasanth1009/github-readme-stats)
-
 [website]: https://vasanth1009.github.io/Personal-Portfolio/
 [twitter]: https://twitter.com/Vasanth10091999
 [linkedin]: https://www.linkedin.com/in/vasanthprabhakaran/
