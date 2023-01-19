@@ -54,7 +54,3 @@
 <br />
 <br />
 <br />
-[website]: https://vasanth1009.github.io/Personal-Portfolio/
-[twitter]: https://twitter.com/Vasanth10091999
-[linkedin]: https://www.linkedin.com/in/vasanthprabhakaran/
-[gmail]: mailto:vasanthprabhakaran1999@gmail.com
