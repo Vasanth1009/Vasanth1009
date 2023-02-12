@@ -21,7 +21,7 @@
 
 ### Programming Known:
 
-<img align="left" alt="Java" width="22px" src="https://img.icons8.com/color/48/000000/java.png" />
+<img align="left" alt="Java" width="22px" src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" />
 <img align="left" alt="C" width="22px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="C-Sharp" width="22px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
@@ -31,7 +31,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="VS Code" width="22px" src="https://code.visualstudio.com/favicon.ico" />
-<img align="left" alt="PostMan" width="22px" src="https://icons8.com/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment" />
+<img align="left" alt="PostMan" width="22px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
 <img align="left" alt="Git" width="22px" src="https://git-scm.com/favicon.ico" />
 <img align="left" alt="GitHub" width="22px" src="https://github.com/fluidicon.png" />
 <img align="left" alt="BigBucket" width="22px" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/parcel/present/build-favicon-default.5ced79d9.ico" />
