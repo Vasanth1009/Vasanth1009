@@ -31,7 +31,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="VS Code" width="22px" src="https://code.visualstudio.com/favicon.ico" />
-<img align="left" alt="PostMan" width="22px" src="https://www.postman.com/favicon-32x32.png?v=13d51aa1bbfaacb557bf41b85783e441" />
+<img align="left" alt="PostMan" width="22px" src="https://icons8.com/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment" />
 <img align="left" alt="Git" width="22px" src="https://git-scm.com/favicon.ico" />
 <img align="left" alt="GitHub" width="22px" src="https://github.com/fluidicon.png" />
 <img align="left" alt="BigBucket" width="22px" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/parcel/present/build-favicon-default.5ced79d9.ico" />
