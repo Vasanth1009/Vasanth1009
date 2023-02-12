@@ -25,6 +25,7 @@
 <img align="left" alt="C" width="22px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="C-Sharp" width="22px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
+<img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
 
 ### Languages and Tools:
@@ -37,7 +38,6 @@
 <img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Bootstrap" width="22px" src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon.ico" />
 <img align="left" alt="Tailwind" width="22px" src="https://tailwindcss.com/favicons/favicon-16x16.png" />
 <img align="left" alt="React" width="22px" src="https://reactjs.org/favicon.ico" />
