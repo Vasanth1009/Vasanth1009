@@ -1,7 +1,7 @@
 ### Hello World! I'm Vasanth <img align="left" alt="Java" width="22px" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" />
-- 🎓 Currently I'm a ***Software - Engineer, Developer, Designer***
+- 🎓 Currently I'm a ***Lead Software - Engineer, Developer, Designer***
 - 💻 I’m currently learning ***Web Development***
-- 👬 I’m looking to collaborate on ***React And Angular And Vue Developer***
+- 👬 I’m looking to collaborate on ***React And Angular Vue and NodeJS Developer***
 - 🔭 I’m looking for help with ***Full Stack Developer***
 - 💬 Ask me about ***Web Development***
 - ⏳ Hobbies : ***I love to Develop Web App, Website and UX/UI Design***
