@@ -34,7 +34,7 @@
 <img align="left" alt="PostMan" width="22px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
 <img align="left" alt="Git" width="22px" src="https://git-scm.com/favicon.ico" />
 <img align="left" alt="GitHub" width="22px" src="https://github.com/fluidicon.png" />
-<img align="left" alt="BigBucket" width="22px" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/parcel/present/build-favicon-default.5ced79d9.ico" />
+<img align="left" alt="BigBucket" width="22px" src="https://www.atlassian.com/assets/img/favicons/bitbucket/favicon-32x32.png" />
 <img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -43,7 +43,7 @@
 <img align="left" alt="React" width="22px" src="https://reactjs.org/favicon.ico" />
 <img align="left" alt="Angular" width="22px" src="https://angular.io/assets/images/favicons/favicon.ico" />
 <img align="left" alt="Vue" width="22px" src="https://vuejs.org/logo.svg" />
-<img align="left" alt="Next.js" width="22px" src="https://nextjs.org/static/favicon/favicon.ico" />
+<img align="left" alt="Next.js" width="22px" src="https://nextjs.org/favicon.ico" />
 <img align="left" alt="Node.js" width="22px" src="https://nodejs.org/static/images/favicons/favicon.png" />
 <img align="left" alt="Expressjs" width="22px" src="https://expressjs.com/images/favicon.png" />
 <br/>
